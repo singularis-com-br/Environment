@@ -1,0 +1,15 @@
+{
+    "name": "singularis/environment",
+    "autoload": {
+        "psr-4": {
+            "Singularis\\Environment\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Singularis",
+            "email": "contas@singularis.com.br"
+        }
+    ],
+    "require": {}
+}
